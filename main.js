@@ -1,8 +1,6 @@
 'use strict';
 const small = new Image()
-small.src = '/small.png'
-// const big = new Image()
-// big.src = '/heart.webp'
+small.src = './small.png'
 
 function randomUUID() {
     const hexDigits = '0123456789abcdef';
