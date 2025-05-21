@@ -1,0 +1,39 @@
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.log
+
+# OS
+*.swp
+*~
+
+# Others
+.env
+.env.*
+
+# Local files
+UID.txt
+MAC.txt
+LOG.txt
+detail.ini

@@ -8,6 +8,10 @@ Copyright (C) 2007 Free Software Foundation, Inc.
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
 
+## 说明
+
+本项目源码遵循 GNU GPL v3 许可协议，但 `./src/assets` 目录下的资源文件（图片），来源于`[th06.0] 东方红魔乡　～ the Embodiment of Scarlet Devil.`不在该 License 范围内，其版权归原作者所有，使用请遵循各自资源的授权协议。
+
 ## Preamble
 
 The GNU General Public License is a free, copyleft license for

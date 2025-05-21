@@ -1,0 +1,27 @@
+{
+  "name": "i-love-flan",
+  "version": "1.0.0",
+  "description": "a web to express my Love for Flan",
+  "homepage": "https://github.com/Chzxxuanzheng/I-LOVE-Flan#readme",
+  "bugs": {
+    "url": "https://github.com/Chzxxuanzheng/I-LOVE-Flan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chzxxuanzheng/I-LOVE-Flan.git"
+  },
+  "license": "GPL-3.0",
+  "author": "Mr.Lee",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.19",
+    "@vue/tsconfig": "^0.7.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5"
+  }
+}
