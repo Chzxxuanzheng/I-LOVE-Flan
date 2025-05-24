@@ -1,6 +1,6 @@
 import { BigDanmu } from "~/bigDanmu"
 import { DrawCtx, DrawSprite } from "~/draw"
-import { SmallDanmu } from "~/smallDanMu"
+import { SmallDanmu } from "~/smallDanmu"
 
 enum LineDir{
 	left,
