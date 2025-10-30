@@ -1,3 +1,6 @@
+# 归档感言
+我对芙兰的爱消失在占有欲和百合二创中了。我再也无法承受追芙兰的代价了。让芙兰成为我大学时梦中的幻想吧！现在，梦醒了...
+
 <div align='center'>
 
 <img src='https://raw.githubusercontent.com/Chzxxuanzheng/I-LOVE-Flan/refs/heads/main/favicon.ico'>
